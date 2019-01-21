@@ -27,31 +27,22 @@ Meu nome é Amanda, curso Analise e Desenvolvimento de Sistemas focado em Java. 
 My name is Amanda, course Systems Analysis and Development focused on Java. I work as a Technical Support Analyst in a call center company in Florianópolis, I analyze from the problem that occurs with the system until the exchange of a hardware, our work is 100% in group and dealing with different people. As a person who is always looking to learn new things, I study at home HTML, CSS, JavaScript, Jquery, Database, Statistics and Data Science, always also wanting to be updated with new technologies. I have a dream of working outside Brazil, working with technology.
 
 1. Can you talk a little bit about yourself?
-- I like to be always doing something different, being with my friends, family, to do physical activity is essential to release all bad energy accumulated with our daily routine, always seeking to do good, helping people, learning new things, listening to music, watch a good movie on weekends and think about what I can improve to have a better future.
-
+	- I like to be always doing something different, being with my friends, family, to do physical activity is essential to release all bad energy accumulated with our daily routine, always seeking to do good, helping people, learning new things, listening to music, watch a good movie on weekends and think about what I can improve to have a better future.
 2. What motivates you at work?
-- Knowing that I will have to deal with different challenges every day and learn from them, so that later I have an incredible professional evolution and be able to make a difference wherever I am.
-
+	- Knowing that I will have to deal with different challenges every day and learn from them, so that later I have an incredible professional evolution and be able to make a difference wherever I am.
 3. What are your top three qualities that you consider important for this position?
-- Know how to work in groups, deal with difficulties and be dedicated to learning with new challenges.
-
+	- Know how to work in groups, deal with difficulties and be dedicated to learning with new challenges.
 4. What are your three biggest flaws?
-- Afraid of speaking in public, relying too much on others and nervousness.
-
+	- Afraid of speaking in public, relying too much on others and nervousness.
 5. Why should we hire you for this vacancy?
-- Because I am an extremely responsible person, I have an immense passion for everything I do, my focus is to grow as a developer, because of that I joined the IT area. In all the companies I worked for, I was recognized as a communicative person, extroverted, forward, proactive, who gets along well with everyone.
-
+	- Because I am an extremely responsible person, I have an immense passion for everything I do, my focus is to grow as a developer, because of that I joined the IT area. In all the companies I worked for, I was recognized as a communicative person, extroverted, forward, proactive, who gets along well with everyone.
 6. How do you deal with stress and stress at work?
-- Where people see problems I see opportunity, in this way I have a very optimistic vision and I end up not seeing stress at work but opportunities that will appear as problems are shown.
-
+	- Where people see problems I see opportunity, in this way I have a very optimistic vision and I end up not seeing stress at work but opportunities that will appear as problems are shown.
 7. When do you feel successful at work?
-- Knowing that I’m an irreplaceable piece, knowing that my work is making a difference in people's lives, which is making a difference in the delivery of my company services.
-
+	- Knowing that I’m an irreplaceable piece, knowing that my work is making a difference in people's lives, which is making a difference in the delivery of my company services.
 8. How do you intend to contribute to the development and growth of the company?
-- I have a focus, determination, a lot of discipline to embrace the cause and help where necessary, always trying to innovate.
-
+	- I have a focus, determination, a lot of discipline to embrace the cause and help where necessary, always trying to innovate.
 9. Where do you see yourself in the near future?
-- Always better than the previous day, more responsibilities, mature, with more challenges and developing impactful solutions always to help improve the lives of others faster and more efficiently. Making a difference as a developer.
-
+	- Always better than the previous day, more responsibilities, mature, with more challenges and developing impactful solutions always to help improve the lives of others faster and more efficiently. Making a difference as a developer.
 10. What do you consider important in a company?
-- Teamwork, respect, organization, professional and social values.
+	- Teamwork, respect, organization, professional and social values.
